@@ -2,7 +2,7 @@ apiVersion: apps.tanzu.vmware.com/v1
 kind: ContainerApp
 metadata:
   creationTimestamp: null
-  name: FredP-Tanzu-Net
+  name: fredp-tanzu-net
 spec:
   build:
     buildpacks: {}
